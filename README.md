@@ -1,6 +1,6 @@
 
 
-# Alphabetize in Esperanto (Kelly)
+# Alphabetize in Esperanto (Kelly S)
 
 ## Introduction
 
